@@ -2,6 +2,7 @@
   "exportall.config.folderListener": [
     "/src/core/use-cases/movies",
     "/src/config/adapters/http",
-    "/src/core/entities"
+    "/src/core/entities",
+    "/src/presentation/hooks"
   ]
 }
