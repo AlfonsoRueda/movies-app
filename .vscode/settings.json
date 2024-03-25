@@ -3,6 +3,7 @@
     "/src/core/use-cases/movies",
     "/src/config/adapters/http",
     "/src/core/entities",
-    "/src/presentation/hooks"
+    "/src/presentation/hooks",
+    "/src/infrastructure/mappers"
   ]
 }
